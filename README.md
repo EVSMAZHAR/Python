@@ -1,5 +1,5 @@
 # Python
-Here will learn python step by step.
+Here we will learn python step by step.
 # Contents
 ## Chapter 1: Getting started with Python Language
 ## Chapter 2: Python Data Types
