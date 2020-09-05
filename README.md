@@ -1,5 +1,6 @@
 # Python
 Here we will learn python step by step.
+
 # Contents
 ## Chapter 1: Getting started with Python Language
 ## Chapter 2: Python Data Types
@@ -202,4 +203,6 @@ Here we will learn python step by step.
 ## Chapter 199: Python Anti-Patterns
 ## Chapter 200: Common Pitfalls
 ## Chapter 201: Hidden Features
-
+Material of this book is taken from diffrent blogs specialy
+w3school
+Python fo professiols (book)
